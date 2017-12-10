@@ -1,0 +1,16 @@
+Does the Ideation report clearly state the idea of the project and the primary aim and purpose of the proposed website ?
+
+- API for save data load page of web page.(Stats counter) 
+
+Does the Ideation report list the expected features that will be supported by the website?
+
+- Count people in (How many)/perday
+
+
+Did the user provide a survey of related ideas/projects/websites that have some similarities to the proposed idea?
+
+- statcounter.com
+
+Does the Ideation report provide references to suitable sources in support of the project idea?
+
+- statcounter.com
