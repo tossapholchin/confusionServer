@@ -11,7 +11,9 @@ dishRouter.use(bodyParser.json());
 
 dishRouter.route('/')
 .get((req,res,next) => {
-  Dishes.find({}).populate('comments.author').then((dishes) => {
+  Dishes.find({})
+  .populate('comments.author')
+  .then((dishes) => {
     res.statusCode = 200;
     res.setHeader('Content-Type', 'application/json');
     res.json(dishes);
